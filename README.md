@@ -15,7 +15,7 @@
 ### Modelo Figma 
 [Clique aqui para acessar o protótipo](https://www.figma.com/file/kg8jj2HgSDV9efuhoDtta5/AluraFlix-PT?type=design&node-id=1-106&mode=designt=pUDit8zCXsUJFRyR-0)
 
-### Tecnologias Utilizadas
+### Tecnologias utilizadas
     - React
     - Next.js
     - Typescript
